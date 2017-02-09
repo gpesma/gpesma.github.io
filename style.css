@@ -1,0 +1,26 @@
+body{
+	background-color: #FFFAFA
+}
+
+.back{
+	font-family: Geneva;
+	text-align: center;
+}
+
+h1{
+	color: black;
+	font-size: 250%;
+	text-align: center;
+}
+
+.categories{
+	font-family: Geneva;
+	font-size: 175%;
+	text-align: left;
+}
+
+.bolds{
+	font-family: Geneva;
+	font-size: 120%;
+}
+
